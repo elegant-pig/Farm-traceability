@@ -2,7 +2,7 @@
 数据库+区块链技术的农产品追溯系统
 
 
-##依赖
+## 需要依赖
 <dependency>
             <groupId>org.web3j</groupId>
             <artifactId>core</artifactId>
